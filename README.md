@@ -31,7 +31,8 @@ GIF created with https://ezgif.com/
 ## Notes
 
 Describe any challenges encountered while building the app.
-There were some Javascript topics I had forgetten so I had to re-learn them or new terms I had to learn when completing the challenges.
+
+There were some Javascript topics I had forgetten so I had to re-learn them and new terms I had to learn when completing the challenges.
 
 
 ## License
